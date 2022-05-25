@@ -1,0 +1,4 @@
+Sources for neural network:
+Here they have used GAN: https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-3-2021/57/2021/isprs-annals-V-3-2021-57-2021.pdf
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/models/networks.py
+Some denoising networks :https://github.com/LabForComputationalVision/bias_free_denoising/tree/master/models
